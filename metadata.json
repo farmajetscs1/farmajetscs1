@@ -1,0 +1,6 @@
+{
+  "name": "Metapsicología Freudiana: Modelo Topológico y Dinámica del Inconsciente",
+  "description": "Modelo analógico riguroso del aparato psíquico de Freud enfocado en los procesos primarios, la represión, la dinámica del ello, yo y superyó, y la formalización topológica mediante el Flujo de Ricci y Poincaré-Perelman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
